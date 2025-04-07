@@ -2,7 +2,7 @@ Hi there! I'm a passionate and versatile Data Scientist, Web and Software Tester
 
 With hands-on experience across the software development lifecycle—from data exploration and predictive modeling to API design and automated testing—I bring a multi-dimensional perspective to every project I contribute to.
 
-I enjoy solving real-world problems with code, whether through data insights, performance-optimized APIs, or seamless user interfaces. Currently working with Python, JavaScript (React & Node.js), MongoDB, PostgreSQL, and testing tools like Selenium and Postman.
+I enjoy solving real-world problems with code, whether through data insights, performance-optimized APIs, or seamless user interfaces. Currently working with Python, JavaScript (React & Node.js), Typescript (NestJS) MongoDB, PostgreSQL, and testing tools like Selenium and Postman.
 
 🛠️ Core Skills
 Full-Stack Web Development (Frontend & Backend)
